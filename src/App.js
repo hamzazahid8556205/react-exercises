@@ -13,8 +13,8 @@ function App() {
   {/* <Exercise2 /> */}
      {/* <Exercise1 /> */}
 
-      { <Exercise3 /> }
-      {/* <Exercise4 /> */}
+      {/* <Exercise3 /> */ }
+      { <Exercise4 /> }
     </div>
   );
 }
